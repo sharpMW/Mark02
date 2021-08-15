@@ -16,35 +16,35 @@ function play (question, answer) {
 }
 
 var questions = [ { 
-  question: "Who founded R25C? ",
-  answer: "Swapnil"
+  question: "Who directed 'The Dark Knight Trilogy? ",
+  answer: "Christopher Nolan"
 }, { 
-  question: "When was R25C founded? (full date)", 
-  answer: "5th May, 2019"
+  question: "What is the real name of 'Batman'? ", 
+  answer: "Bruce Wayne"
 }, { 
-  question: "What is the full form R25C?",
-  answer: "randipachcheesi"
+  question: "Who was villain in second movie?",
+  answer: "Joker"
 }, { 
-  question: "How many branches does R25C has? ",
-  answer: "4"
+  question: "Who is Batman's ally? ",
+  answer: "Robin"
 }, { 
-  question: "How many R25Cians are there in total? ",
-  answer: "7"
+  question: "Who was protagonist of 'The Dark Knight'? ",
+  answer: "Harvey Dent"
 }, { 
-  question: "What was the favourite class of R25Cians? ",
-  answer: "Chemistry Lab"
+  question: "What was the nickname of 'Harvey Dent? ",
+  answer: "Harvey two-face"
 }, { 
-  question: "Who was the first victim of R25Cian's wrath? ",
-  answer: "Karu Lal"
+  question: "Where did Batman lived? ",
+  answer: "Gotham"
 }, { 
-  question: "What was the first 'respectable' name of R25C? ",
-  answer: "Chhatra Sangathan Kranti"
+  question: "Who mentored Batman? ",
+  answer: "Ra's Al Ghul"
 }, { 
-  question: "Whos is the favourite movie star of R25Cians? ",
-  answer: "Selmon bhoi"
+  question: "Who played 'Bane'? ",
+  answer: "Tom Hardy"
 }, { 
-  question: "Is R25C going to dissolve anytime soon?",
-  answer: "Never"
+  question: "Did Batman die?",
+  answer: "No"
 }
 ]
 
