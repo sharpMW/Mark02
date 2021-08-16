@@ -1,6 +1,7 @@
 var readlineSync = require('readline-sync');
 var userName = readlineSync.question ("Your name? ");
-console.log ("Hi, there " + userName + " to the R25C quiz");
+console.log ("Hi, there " + userName);
+console.log("Welcome to the DC Fandom quiz");
 var score = 0;
 
 
